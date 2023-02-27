@@ -215,14 +215,14 @@ h1{
 }
 .down{
     background-color: aliceblue;
-    height: 100%;
+    height: 900px;
     margin: 0;
 }
 .main-upi{
     display: flex;
     justify-content: space-between;
     margin: 100px 0px 40px 0px;
-    width: 1170px;
+    width:1170px;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
@@ -230,3 +230,23 @@ h1{
     padding: 80px;
 }
 
+.dp-main{
+    width: 100%;
+    height: 50px;
+    background-color:  aliceblue;
+}
+
+.logo3{
+    width: 200px;
+    margin: 0px 10px 30px 10px;
+}
+
+.btn1{
+    border-radius: 30px;
+    height: 52px;
+    width: 155px;
+    background-color: #002970;
+    color: white;
+    font-size: large;
+    font-weight: 550;
+}
