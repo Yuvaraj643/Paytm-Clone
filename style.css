@@ -118,10 +118,10 @@ h1{
 }
 
 .t3{
-    font-size: 20px ;
+    font-size: 25px ;
     font-family: Inter,sans-serif;
     color: #000000;
-    font-weight: bold;
+    font-weight: 550;
     
 }
 
@@ -250,3 +250,30 @@ h1{
     font-size: large;
     font-weight: 550;
 }
+
+.textb2{
+    font-size: 50px;
+    font-weight: 550; 
+    margin: 15px;
+    color: #000000;
+}
+
+.fmain{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fmain2{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.fp{
+    font-size: 20px;
+    font-weight: 550;
+}
+
+
